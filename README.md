@@ -34,4 +34,7 @@ $DB['DOUBLE_IEEE754']           = true;
 ```
 
 
-##
+## Step 6 - start zabbix
+```
+systemctl start zabbix-server
+```
