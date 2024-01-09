@@ -1,4 +1,4 @@
-# zabbix_database_upgrade
+# How to solve the error message Unsupported charset or collation for tables after a zabbix upgrade
 Solve the zabbix database error message "Unsupported charset or collation for tables"
 
 After my upgrade i got the message on my dashboard
